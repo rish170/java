@@ -16,9 +16,7 @@ The program demonstrates multilevel inheritance in Java. It begins by creating a
 
 ## 🔄 Execution Flow Diagram
 
-*(Replace the image below with your generated flowchart)*
-
-![Execution Flow Diagram](./flowchart.png)
+![Execution Flow Diagram](Images/flow.png)
 
 ---
 
@@ -128,9 +126,7 @@ Specialization: Computer Science
 
 ## 🧩 IDE Screenshot
 
-*(Replace the image below with your Eclipse screenshot)*
-
-![IDE Screenshot](./eclipse_screenshot.png)
+![IDE Screenshot](Images/code.png)
 
 ---
 
